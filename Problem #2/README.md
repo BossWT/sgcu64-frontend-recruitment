@@ -98,3 +98,19 @@ Please input any number: 3
 # Applicant Section
 
 ตั้งแต่ส่วนนี้ลงไป เป็นส่วนที่ผู้สมัครสามารถแก้ไขได้ตามอัธยาศัย ซึ่งอาจจะเป็นข้อสันนิษฐานหรือไอเดียเพิ่มเติมก็ได้
+
+ต้องลง NPM package ชื่อ readline-sync ก่อนที่จะ Run สามารถลงได้โดยใช้คำสั่ง
+
+```
+npm install -g readline-sync
+```
+
+ใช้ Node.js ในการ Run
+
+```
+node Problem2.js
+```
+
+# Additional Idea: เพิ่ม All Population ตอนแสดงผลจำนวนคนในแต่ละพื้นที่ เพื่อความง่ายในการตรวจสอบ
+
+# Addtional Idea: เพิ่มพื้นที่ที่ต้องการ Check In ได้แบบ Dynamic ซึ่งอยู่ใน Menu ที่ 4
