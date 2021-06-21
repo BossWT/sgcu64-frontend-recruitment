@@ -1,0 +1,14 @@
+{
+  "name": "problem2",
+  "version": "1.0.0",
+  "description": "## วัตถุประสงค์",
+  "main": "Problem2.js",
+  "scripts": {
+    "test": "node Problem2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
